@@ -1,0 +1,24 @@
+#coul_navbar 
+{
+    background-color: rgba(69, 65, 59, 0.4);
+}
+
+#article{
+    left: 100%;
+    background-color: rgb(193, 22, 22);
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+}
+
+.os2{
+    background: url(../images/snick.png);
+    background-size: 100%
+}
+
+.p{
+    font-weight: 50%;
+}
